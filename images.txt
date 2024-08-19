@@ -1,1 +1,1 @@
-openjdk:8
+openjdk:17-ea-23
